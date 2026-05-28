@@ -1,0 +1,32 @@
+aid: inferdo
+name: Inferdo
+description: "Computer Vision services like Facial detection, Image labeling, NSFW classification"
+url: https://rapidapi.com/user/inferdo
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Inferdo
+    description: "Computer Vision services like Facial detection, Image labeling, NSFW classification"
+    humanURL: https://rapidapi.com/user/inferdo
+    baseURL: https://rapidapi.com/user/inferdo
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/user/inferdo
+common:
+  - type: Website
+    url: https://rapidapi.com/user/inferdo
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
